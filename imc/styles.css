@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  padding: 38%;
+  padding-top: 12%;
+  background-image: url("https://cdn.vectorstock.com/i/500p/46/76/background-gradient-design-wave-green-modern-vector-48874676.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: chartreuse;
+}
+
+h1 {
+  width: 200%;
+  font-size: 60px;
+  margin-left: 50px;
+}
+
+.input {
+  color: aliceblue;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 130px;
+}
+
+.button {
+  width: 120px;
+  height: 30px;
+  margin-left: 240px;
+  margin-top: 16px; 
+  font-size: 19px;  
+  background-color: transparent;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid chartreuse;
+  border-radius: 2%;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 24px;
+  width: 500px;
+  color: aliceblue;
+  margin-left: 130px;
+}
+
+#peso {
+  margin-left: 19px;
+  background-color: transparent;
+  border: 2px solid chartreuse;
+  font-size: 20px;
+  color: aliceblue;
+  border-radius: 10px 100px / 120px;
+  text-align: center;
+}
+
+#name {
+  background-color: transparent;
+  border: 2px solid chartreuse;
+  font-size: 20px;
+  color: aliceblue;
+  border-radius: 10px 100px / 120px;
+  text-align: center;
+}
+
+#altura {
+  background-color: transparent;
+  border: 2px solid chartreuse;
+  font-size: 20px;
+  color: aliceblue;
+  border-radius: 10px 100px / 120px;
+  text-align: center;
+}
+
+#resultado {
+  margin-left: 230px;
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+#p {
+  margin-left: 20px;
+}
+
